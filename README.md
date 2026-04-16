@@ -7,6 +7,7 @@
   />
 </p>
 
+
 [![CI Status](http://img.shields.io/travis/Polidea/RxBluetoothKit.svg?style=flat)](https://travis-ci.org/Polidea/RxBluetoothKit)
 [![Platform](https://img.shields.io/cocoapods/p/RxBluetoothKit.svg?style=flat)](http://cocoapods.org/pods/RxBluetoothKit)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
